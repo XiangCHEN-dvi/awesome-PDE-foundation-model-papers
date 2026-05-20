@@ -1,0 +1,1 @@
+# awesome-PDE-foundation-model-papers
